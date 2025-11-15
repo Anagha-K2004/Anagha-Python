@@ -1,0 +1,5 @@
+list1=input("Enter the colors:")
+c=list1.split(",")
+print(c)
+print(c[0])
+print(c[-1])
